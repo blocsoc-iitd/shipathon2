@@ -1,0 +1,7 @@
+pymerkle==6.1.0
+rsa==4.9
+requests==2.32.3
+pytest==6.2.3
+fastapi==0.115.8
+pydantic==2.10.6
+uvicorn==0.34.0
